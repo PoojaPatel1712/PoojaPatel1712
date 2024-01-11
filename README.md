@@ -1,6 +1,6 @@
 # Coding Adventures with PoojaPatel
 
-## Welcome to PoojaPatel1712's Coding World! 🚀
+## Welcome to My Coding World! 🚀
 
 Explore a diverse collection of repositories that delve into a myriad of topics, ranging from web and software development to SQL, Excel, JavaScript, and data analysis. Each repository is a treasure trove of projects, demonstrating my passion and skills in the vast realm of coding.
 
