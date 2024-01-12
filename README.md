@@ -32,4 +32,7 @@ Thank you for dropping by, and happy coding! 🌟
 7. [TechLab](https://github.com/PoojaPatel1712/TechLab)
    - Explore Python exercises on HackerRank covering topics like Hello, World, Python if-else statements, arithmetic operators, division, and loops.
 
+8. [PythonProjects](https://github.com/PoojaPatel1712/PythonProjects)
+   - Explore Python Projects from basic. Beginner Friendly Python Projects.
+
 Feel free to explore, contribute, or provide feedback on any of these repositories. Thank you for visiting!
