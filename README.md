@@ -30,9 +30,9 @@ Thank you for dropping by, and happy coding! 🌟
    - Access a data analysis project focusing on Diwali sales data using Python. Check out the project work folder containing the dataset and Jupyter Notebook.
 
 7. [TechLab](https://github.com/PoojaPatel1712/TechLab)
-   - Explore Python exercises on HackerRank covering topics like Hello, World, Python if-else statements, arithmetic operators, division, and loops.
+   - Explore Python exercises on HackerRank covering topics like Hello, World, Python if-else statements, arithmetic operators, division, and loops.(in progress)
 
 8. [PythonProjects](https://github.com/PoojaPatel1712/PythonProjects)
-   - Explore Python Projects from basic. Beginner Friendly Python Projects.
+   - Explore Python Projects from basic. Beginner Friendly Python Projects.(in progress)
 
 Feel free to explore, contribute, or provide feedback on any of these repositories. Thank you for visiting!
